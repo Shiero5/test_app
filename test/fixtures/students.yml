@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image_id: 1
+  name: MyString
+  birthday: MyString
+  highschool: MyString
+  belong: MyString
+  lecture: MyString
+  message: MyString
+  circle_comment: MyString
+  remark_comment: MyString
+
+two:
+  image_id: 1
+  name: MyString
+  birthday: MyString
+  highschool: MyString
+  belong: MyString
+  lecture: MyString
+  message: MyString
+  circle_comment: MyString
+  remark_comment: MyString
